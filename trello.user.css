@@ -5,7 +5,7 @@
 @author       siiibo
 @homepageURL  https://github.com/siiibo/stylus-siiibo
 @updateURL    https://raw.githubusercontent.com/siiibo/stylus-siiibo/main/trello.user.css
-@version      1.0.2
+@version      1.0.3
 @license      Unlicensed
 ==/UserStyle== */
 
@@ -52,7 +52,7 @@
   }
 
   /* カードを開いたときのウィンドウ幅を設定 */
-  .window.editor-sticky-toolbar {
+  #layer-manager-card-back div[role="dialog"] {
     width: 70vw; /* 例として70vwに設定 */
   }
 
