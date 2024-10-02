@@ -5,7 +5,7 @@
 @author       siiibo
 @homepageURL  https://github.com/siiibo/stylus-siiibo
 @updateURL    https://raw.githubusercontent.com/siiibo/stylus-siiibo/main/trello.user.css
-@version      1.0.3
+@version      1.0.4
 @license      Unlicensed
 ==/UserStyle== */
 
@@ -57,13 +57,9 @@
   }
 
   /* カードを開いたときのウィンドウのカラムの幅を設定 */
-  .window-main-col {
-    width: 70%; /* 幅の設定 */
-  }
-
-  /* カードを開いたときのウィンドウのサイドバーの幅を設定 */
-  .window-sidebar {
-    width: 20%; /* 幅の設定 */
+  div[data-testid="card-back-name"] > div > div > div:nth-child(2) {
+    grid-template-columns: [main] 4fr [sidebar] minmax(0, 1fr);
+    column-gap: 4%;
   }
 
   /* Doneリスト */
