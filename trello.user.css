@@ -105,304 +105,304 @@
     text-align: center;
     transform: translate(-7px, 7px);
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(1))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(1))::after {
     content: "1";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(2))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(2))::after {
     content: "2";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(3))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(3))::after {
     content: "3";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(4))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(4))::after {
     content: "4";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(5))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(5))::after {
     content: "5";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(6))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(6))::after {
     content: "6";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(7))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(7))::after {
     content: "7";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(8))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(8))::after {
     content: "8";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(9))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(9))::after {
     content: "9";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(10))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(10))::after {
     content: "10";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(11))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(11))::after {
     content: "11";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(12))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(12))::after {
     content: "12";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(13))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(13))::after {
     content: "13";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(14))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(14))::after {
     content: "14";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(15))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(15))::after {
     content: "15";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(16))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(16))::after {
     content: "16";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(17))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(17))::after {
     content: "17";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(18))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(18))::after {
     content: "18";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(19))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(19))::after {
     content: "19";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(20))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(20))::after {
     content: "20";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(21))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(21))::after {
     content: "21";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(22))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(22))::after {
     content: "22";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(23))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(23))::after {
     content: "23";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(24))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(24))::after {
     content: "24";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(25))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(25))::after {
     content: "25";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(26))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(26))::after {
     content: "26";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(27))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(27))::after {
     content: "27";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(28))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(28))::after {
     content: "28";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(29))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(29))::after {
     content: "29";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(30))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(30))::after {
     content: "30";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(31))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(31))::after {
     content: "31";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(32))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(32))::after {
     content: "32";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(33))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(33))::after {
     content: "33";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(34))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(34))::after {
     content: "34";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(35))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(35))::after {
     content: "35";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(36))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(36))::after {
     content: "36";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(37))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(37))::after {
     content: "37";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(38))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(38))::after {
     content: "38";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(39))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(39))::after {
     content: "39";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(40))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(40))::after {
     content: "40";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(41))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(41))::after {
     content: "41";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(42))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(42))::after {
     content: "42";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(43))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(43))::after {
     content: "43";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(44))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(44))::after {
     content: "44";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(45))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(45))::after {
     content: "45";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(46))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(46))::after {
     content: "46";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(47))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(47))::after {
     content: "47";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(48))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(48))::after {
     content: "48";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(49))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(49))::after {
     content: "49";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(50))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(50))::after {
     content: "50";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(51))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(51))::after {
     content: "51";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(52))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(52))::after {
     content: "52";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(53))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(53))::after {
     content: "53";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(54))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(54))::after {
     content: "54";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(55))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(55))::after {
     content: "55";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(56))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(56))::after {
     content: "56";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(57))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(57))::after {
     content: "57";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(58))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(58))::after {
     content: "58";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(59))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(59))::after {
     content: "59";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(60))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(60))::after {
     content: "60";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(61))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(61))::after {
     content: "61";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(62))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(62))::after {
     content: "62";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(63))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(63))::after {
     content: "63";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(64))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(64))::after {
     content: "64";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(65))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(65))::after {
     content: "65";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(66))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(66))::after {
     content: "66";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(67))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(67))::after {
     content: "67";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(68))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(68))::after {
     content: "68";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(69))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(69))::after {
     content: "69";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(70))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(70))::after {
     content: "70";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(71))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(71))::after {
     content: "71";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(72))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(72))::after {
     content: "72";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(73))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(73))::after {
     content: "73";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(74))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(74))::after {
     content: "74";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(75))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(75))::after {
     content: "75";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(76))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(76))::after {
     content: "76";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(77))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(77))::after {
     content: "77";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(78))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(78))::after {
     content: "78";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(79))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(79))::after {
     content: "79";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(80))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(80))::after {
     content: "80";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(81))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(81))::after {
     content: "81";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(82))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(82))::after {
     content: "82";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(83))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(83))::after {
     content: "83";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(84))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(84))::after {
     content: "84";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(85))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(85))::after {
     content: "85";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(86))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(86))::after {
     content: "86";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(87))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(87))::after {
     content: "87";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(88))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(88))::after {
     content: "88";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(89))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(89))::after {
     content: "89";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(90))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(90))::after {
     content: "90";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(91))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(91))::after {
     content: "91";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(92))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(92))::after {
     content: "92";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(93))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(93))::after {
     content: "93";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(94))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(94))::after {
     content: "94";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(95))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(95))::after {
     content: "95";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(96))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(96))::after {
     content: "96";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(97))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(97))::after {
     content: "97";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(98))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(98))::after {
     content: "98";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(99))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(99))::after {
     content: "99";
   }
-  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-child(100))::after {
+  ol#board > li:has(ol[data-testid="list-cards"] > li:nth-of-type(100))::after {
     content: "∞";
   }
 }
