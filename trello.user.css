@@ -57,9 +57,17 @@
   }
 
   /* カードを開いたときのウィンドウのカラムの幅を設定 */
-  div[data-testid="card-back-name"] > div > div > div:last-child {
-    grid-template-columns: [main] 4fr [sidebar] minmax(0, 1fr);
-    column-gap: 4%;
+  .card-back-redesign main {
+    width: 50%;
+  }
+  .card-back-redesign aside {
+    width: 50%;
+  }
+  .card-back-redesign main div {
+    max-width: none !important;
+  }
+  div[data-testid="card-back-panel"] {
+    width: 100% !important;
   }
 
   /* Doneリスト */
