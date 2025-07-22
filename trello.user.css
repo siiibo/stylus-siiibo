@@ -53,7 +53,7 @@
 
   /* カードを開いたときのウィンドウ幅を設定 */
   #layer-manager-card-back div[role="dialog"] {
-    width: 70vw; /* 例として70vwに設定 */
+    width: 90vw;
   }
 
   /* カードを開いたときのウィンドウのカラムの幅を設定 */
