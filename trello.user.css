@@ -53,21 +53,13 @@
 
   /* カードを開いたときのウィンドウ幅を設定 */
   #layer-manager-card-back div[role="dialog"] {
-    width: 90vw;
+    width: 70vw; /* 例として70vwに設定 */
   }
 
   /* カードを開いたときのウィンドウのカラムの幅を設定 */
-  .card-back-redesign main {
-    width: 50%;
-  }
-  .card-back-redesign aside {
-    width: 50%;
-  }
-  .card-back-redesign main div {
-    max-width: none !important;
-  }
-  div[data-testid="card-back-panel"] {
-    width: 100% !important;
+  div[data-testid="card-back-name"] > div > div > div:last-child {
+    grid-template-columns: [main] 4fr [sidebar] minmax(0, 1fr);
+    column-gap: 4%;
   }
 
   /* Doneリスト */
