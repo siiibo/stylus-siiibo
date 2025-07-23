@@ -57,13 +57,13 @@
   }
 
   /* カードを開いたときのウィンドウのカラムの幅を設定 */
-  .card-back-redesign main {
+  [data-testid="card-back-name"] main {
     width: 50%;
   }
-  .card-back-redesign aside {
+  [data-testid="card-back-name"] aside {
     width: 50%;
   }
-  .card-back-redesign main div {
+  [data-testid="card-back-name"] main div {
     max-width: none !important;
   }
   div[data-testid="card-back-panel"] {
